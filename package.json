@@ -1,5 +1,6 @@
 {
-  "name": "truffle-expect",
+  "name": "moxie-expect",
+  "namespace": "moxiesuite",
   "version": "0.0.3",
   "description": "Simple module for ensuring specific options are passed to a function",
   "main": "index.js",
@@ -8,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trufflesuite/truffle-expect.git"
+    "url": "git+https://github.com/moxiesuite/moxie-expect.git"
   },
   "keywords": [
-    "truffle",
-    "ethereum",
+    "moxie",
+    "vapory",
     "expect"
   ],
   "author": "Tim Coulter <tim.coulter@consensys.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trufflesuite/truffle-expect/issues"
+    "url": "https://github.com/moxiesuite/moxie-expect/issues"
   },
-  "homepage": "https://github.com/trufflesuite/truffle-expect#readme"
+  "homepage": "https://github.com/moxiesuite/moxie-expect#readme"
 }

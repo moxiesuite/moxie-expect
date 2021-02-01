@@ -1,16 +1,16 @@
-# truffle-expect
+# moxie-expect
 Simple module for ensuring expected parameters exist
 
 ### install
 
 ```
-$ npm install truffle-expect
+$ npm install moxie-expect
 ```
 
 ### Usage
 
 ```javascript
-var expect = require("truffle-expect");
+var expect = require("moxie-expect");
 
 // The object you're testing
 var options = {
